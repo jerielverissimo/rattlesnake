@@ -1,6 +1,6 @@
 [package]
 authors = ["Martin Amps <https://twitter.com/martinamps>", "Jeriel Baptista Verissimo <https://twitter.com/J3r137>"]
-name = "starter-snake-rust"
+name = "rattlesnake"
 version = "1.0.0"
 edition = "2018"
 
